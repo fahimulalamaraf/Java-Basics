@@ -57,5 +57,7 @@ public class LinkedList {
        LinkedList ll = new LinkedList();
        ll.addFirst(1);
        ll.addFirst(2);
+       ll.addLast(3);
+       ll.addLast(4);
     }
 }
